@@ -4,7 +4,6 @@
     <p> This page is about brawl stars and regards to any questions about it. It gives fun questions through the console, etc... Brawl Stars is a game about brawlers fighting inside of an arena in different game modes. Based on abilities, which range from support, assassin, etc. most of them are effective in certain game modes, but mostly require skill to use. </p>
     <img src ="" alt ="brawl stars image">
 </body>
-</html>
 <script>
     var brawl_questions = [
         "What brawler is poco? a Support Brawler",
@@ -25,3 +24,4 @@
     var randomIndex = Math.floor(Math.random() * brawl_questions.length);
     console.log("Question #" + (randomIndex + 1) + ": " + brawl_questions[randomIndex]);
 </script>
+</html>
