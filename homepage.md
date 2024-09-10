@@ -1,4 +1,17 @@
 <html>
+<style>
+    body {
+        background-color: coral;
+    }
+    h1 {
+        font-weight: lighter;
+        font-family: "Times New Roman," Times, serif;
+    }
+    p {
+        font-weight: bold;
+        font-family: "Times New Roman," Times, serif;
+    }
+</style>
 <body>
     <h1> Brawl Stars Homepage </h1>
     <p> This page is about brawl stars and regards to any questions about it. It gives fun questions through the console, etc... Brawl Stars is a game about brawlers fighting inside of an arena in different game modes. Based on abilities, which range from support, assassin, etc. most of them are effective in certain game modes, but mostly require skill to use. </p>
