@@ -15,7 +15,7 @@
 <body>
     <h1> Brawl Stars Homepage </h1>
     <p> This page is about brawl stars and regards to any questions about it. It gives fun questions through the console, etc... Brawl Stars is a game about brawlers fighting inside of an arena in different game modes. Based on abilities, which range from support, assassin, etc. most of them are effective in certain game modes, but mostly require skill to use. </p>
-    <img src ="" alt ="brawl stars image">
+    <img src ="Brawl-Stars-CSP-Project/chicken.jpg" alt ="brawl stars image">
 </body>
 <script>
     var brawl_questions = [
